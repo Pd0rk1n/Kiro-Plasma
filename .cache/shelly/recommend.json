@@ -1,0 +1,238 @@
+{"timestamp":1785980797,"categories":[
+  {
+    "name": "2D/3D editing",
+    "packages": [
+      "birdfont",
+      "blender",
+      "darktable",
+      "digikam",
+      "fontforge",
+      "freecad",
+      "gimp",
+      "inkscape",
+      "kicad",
+      "kolourpaint",
+      "krita",
+      "librecad",
+      "luminancehdr",
+      "mypaint",
+      "opentoonz",
+      "pencil2d",
+      "sweethome3d",
+      "synfigstudio"
+    ]
+  },
+  {
+    "name": "Audio/Video editing",
+    "packages": [
+      "ardour",
+      "audacity",
+      "kdenlive",
+      "kwave",
+      "lmms",
+      "mixxx",
+      "musescore",
+      "obs-studio",
+      "pitivi",
+      "rosegarden",
+      "shotcut",
+      "soundconverter",
+      "transmageddon"
+    ]
+  },
+  {
+    "name": "Browsers",
+    "packages": [
+      "brave-bin",
+      "falkon",
+      "firefox",
+      "floorp-bin",
+      "helium-browser-bin",
+      "librewolf-bin",
+      "mullvad-browser-bin",
+      "qutebrowser",
+      "torbrowser-launcher",
+      "vivaldi",
+      "waterfox-bin",
+      "zen-browser-bin"
+    ]
+  },
+  {
+    "name": "Chatting clients",
+    "packages": [
+      "discord",
+      "element-desktop",
+      "fluxer-canary",
+      "fractal",
+      "mumble",
+      "neochat",
+      "signal-desktop",
+      "telegram-desktop",
+      "vesktop",
+      "wire-desktop"
+    ]
+  },
+  {
+    "name": "Software development",
+    "packages": [
+      "ansible",
+      "cockpit",
+      "code",
+      "crun",
+      "docker",
+      "docker-compose",
+      "emacs",
+      "gnome-builder",
+      "intellij-idea-community-edition",
+      "jenkins",
+      "kdevelop",
+      "netbeans",
+      "podman-compose",
+      "podman-docker",
+      "prometheus",
+      "puppet",
+      "pycharm-community-edition",
+      "qtcreator",
+      "terraform",
+      "vim",
+      "zed",
+      "openfpgaloader",
+      "verilator",
+      "yosys"
+    ]
+  },
+  {
+    "name": "File transfer & downloaders",
+    "packages": [
+      "deluge-gtk",
+      "filezilla",
+      "freedownloadmanager",
+      "jdownloader2",
+      "localsend",
+      "nextcloud-client",
+      "nitroshare",
+      "qbittorrent",
+      "rqbit-desktop",
+      "warpinator"
+    ]
+  },
+  {
+    "name": "Games, libraries & launchers",
+    "packages": [
+      "0ad",
+      "aisleriot",
+      "cachyos-gaming-applications",
+      "cachyos-gaming-meta",
+      "extremetuxracer",
+      "hedgewars",
+      "heroic-games-launcher-bin",
+      "kapman",
+      "kmahjongg",
+      "knights",
+      "lutris",
+      "mari0",
+      "protonup-qt",
+      "steam",
+      "supertux",
+      "supertuxkart",
+      "teeworlds",
+      "xonotic"
+    ]
+  },
+  {
+    "name": "Hardware monitoring & tools",
+    "packages": [
+      "amdgpu_top",
+      "cachyos-benchmarker",
+      "coolercontrol",
+      "cpu-x",
+      "kdiskmark",
+      "lact",
+      "nvtop",
+      "occt",
+      "openlinkhub",
+      "openrgb",
+      "rog-control-center"
+    ]
+  },
+  {
+    "name": "Mail clients",
+    "packages": [
+      "claws-mail",
+      "evolution",
+      "geary",
+      "kmail",
+      "mailspring",
+      "proton-mail-bin",
+      "thunderbird"
+    ]
+  },
+  {
+    "name": "Media players & streamers",
+    "packages": [
+      "audacious",
+      "baka-mplayer",
+      "dragon",
+      "elisa",
+      "freetube",
+      "hypnotix",
+      "lollypop",
+      "mediaelch",
+      "pear-desktop",
+      "shortwave",
+      "smplayer",
+      "strawberry",
+      "vlc"
+    ]
+  },
+  {
+    "name": "Office work",
+    "packages": [
+      "abiword",
+      "calligra",
+      "gnucash",
+      "gnumeric",
+      "homebank",
+      "joplin",
+      "kmymoney",
+      "libreoffice-fresh",
+      "obsidian",
+      "onlyoffice-bin",
+      "skrooge",
+      "wps-office",
+      "yozo-office"
+    ]
+  },
+  {
+    "name": "Password managers",
+    "packages": ["bitwarden", "keepass", "proton-pass"]
+  },
+  {
+    "name": "Utilities",
+    "packages": [
+      "brasero",
+      "converseen",
+      "easytag",
+      "handbrake",
+      "kdeconnect",
+      "kid3",
+      "mullvad-vpn",
+      "putty",
+      "proton-vpn-gtk-app",
+      "remmina",
+      "scrcpy",
+      "tailscale",
+      "variety",
+      "xfburn"
+    ]
+  },
+  {
+    "name": "Virtualization",
+    "packages": ["gnome-boxes", "virt-manager", "virtualbox"]
+  },
+  {
+    "name": "Seafoam Labs recommends",
+    "packages": ["fluxer-canary", "ghostty", "kitty"]
+  }
+]
+}

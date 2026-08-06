@@ -1,0 +1,10 @@
+[10:29:53 PM][---D---] +++ void MainWindow::setProgressDialog() +++
+[10:29:53 PM][---D---] +++ void MainWindow::setup() +++
+[10:29:53 PM][---D---] +++ void MainWindow::fetch_net_pkglist() +++
+[10:29:53 PM][---E---] failed to get package view(wire-desktop): package not found
+[10:29:53 PM][---E---] failed to get package view(nitroshare): package not found
+[10:29:53 PM][---E---] failed to get package view(yozo-office): package not found
+[10:29:53 PM][---D---] +++ void MainWindow::refreshPopularApps() +++
+[10:29:53 PM][---D---] +++ QStringList MainWindow::listInstalled() +++
+[10:29:53 PM][---D---] pacman -Qq
+[10:29:53 PM][---D---] +++ void MainWindow::displayPopularApps() const +++

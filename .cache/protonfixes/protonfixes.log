@@ -1,0 +1,168 @@
+ProtonFixes[17333] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[17333] INFO: Setting up FSR4 version default.
+ProtonFixes[17333] WARN: Error while reading version file "/home/pd0rk1n/.local/share/Steam/steamapps/compatdata/0/upscaler_files"
+ProtonFixes[17333] WARN: [Errno 2] No such file or directory: '/home/pd0rk1n/.local/share/Steam/steamapps/compatdata/0/upscaler_files'
+ProtonFixes[17333] INFO: Failed to validate "FSR4" files.
+ProtonFixes[17333] INFO: Downloading upscaler file "amdxcffx64.dll"
+ProtonFixes[17333] WARN: Error while reading version file "/home/pd0rk1n/.local/share/Steam/steamapps/compatdata/0/upscaler_files"
+ProtonFixes[17333] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[17333] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[18466] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[18466] INFO: Setting up FSR4 version default.
+ProtonFixes[18466] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[18466] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[22338] INFO: Setting up FSR4 version default.
+ProtonFixes[22338] WARN: Error while reading version file "/mnt/steam_ext4/SteamLibrary/steamapps/compatdata/578330/upscaler_files"
+ProtonFixes[22338] WARN: [Errno 2] No such file or directory: '/mnt/steam_ext4/SteamLibrary/steamapps/compatdata/578330/upscaler_files'
+ProtonFixes[22338] INFO: Failed to validate "FSR4" files.
+ProtonFixes[22338] INFO: Downloading upscaler file "amdxcffx64.dll"
+ProtonFixes[22338] WARN: Error while reading version file "/mnt/steam_ext4/SteamLibrary/steamapps/compatdata/578330/upscaler_files"
+ProtonFixes[22338] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[25406] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[25406] INFO: Running checks
+ProtonFixes[25406] INFO: All checks successful
+ProtonFixes[25406] INFO: Using early stage global defaults for "LEGO® City Undercover" (578330)
+ProtonFixes[25406] INFO: No early stage global protonfix found for "LEGO® City Undercover" (578330)
+ProtonFixes[25406] INFO: Setting up FSR4 version default.
+ProtonFixes[25406] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[25406] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[25406] INFO: Running checks
+ProtonFixes[25406] INFO: All checks successful
+ProtonFixes[25406] INFO: Using main stage global defaults for "LEGO® City Undercover" (578330)
+ProtonFixes[25406] INFO: No main stage global protonfix found for "LEGO® City Undercover" (578330)
+ProtonFixes[33228] INFO: Setting up FSR4 version default.
+ProtonFixes[33228] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[34386] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[34386] INFO: Running checks
+ProtonFixes[34386] INFO: All checks successful
+ProtonFixes[34386] INFO: Using early stage global defaults for "LEGO® City Undercover" (578330)
+ProtonFixes[34386] INFO: No early stage global protonfix found for "LEGO® City Undercover" (578330)
+ProtonFixes[34386] INFO: Setting up FSR4 version default.
+ProtonFixes[34386] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[34386] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[34386] INFO: Running checks
+ProtonFixes[34386] INFO: All checks successful
+ProtonFixes[34386] INFO: Using main stage global defaults for "LEGO® City Undercover" (578330)
+ProtonFixes[34386] INFO: No main stage global protonfix found for "LEGO® City Undercover" (578330)
+ProtonFixes[37484] INFO: Setting up FSR4 version default.
+ProtonFixes[37484] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[37717] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[37717] INFO: Running checks
+ProtonFixes[37717] INFO: All checks successful
+ProtonFixes[37717] INFO: Using early stage global defaults for "LEGO® City Undercover" (578330)
+ProtonFixes[37717] INFO: No early stage global protonfix found for "LEGO® City Undercover" (578330)
+ProtonFixes[37717] INFO: Setting up FSR4 version default.
+ProtonFixes[37717] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[37717] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[37717] INFO: Running checks
+ProtonFixes[37717] INFO: All checks successful
+ProtonFixes[37717] INFO: Using main stage global defaults for "LEGO® City Undercover" (578330)
+ProtonFixes[37717] INFO: No main stage global protonfix found for "LEGO® City Undercover" (578330)
+ProtonFixes[51346] INFO: Setting up FSR4 version default.
+ProtonFixes[51346] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[52508] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[52508] INFO: Running checks
+ProtonFixes[52508] INFO: All checks successful
+ProtonFixes[52508] INFO: Using early stage global defaults for "LEGO® City Undercover" (578330)
+ProtonFixes[52508] INFO: No early stage global protonfix found for "LEGO® City Undercover" (578330)
+ProtonFixes[52508] INFO: Setting up FSR4 version default.
+ProtonFixes[52508] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[52508] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[52508] INFO: Running checks
+ProtonFixes[52508] INFO: All checks successful
+ProtonFixes[52508] INFO: Using main stage global defaults for "LEGO® City Undercover" (578330)
+ProtonFixes[52508] INFO: No main stage global protonfix found for "LEGO® City Undercover" (578330)
+ProtonFixes[60281] INFO: Setting up FSR4 version default.
+ProtonFixes[60281] WARN: Error while reading version file "/mnt/steam_ext4/SteamLibrary/steamapps/compatdata/32440/upscaler_files"
+ProtonFixes[60281] WARN: [Errno 2] No such file or directory: '/mnt/steam_ext4/SteamLibrary/steamapps/compatdata/32440/upscaler_files'
+ProtonFixes[60281] INFO: Failed to validate "FSR4" files.
+ProtonFixes[60281] INFO: Downloading upscaler file "amdxcffx64.dll"
+ProtonFixes[60281] WARN: Error while reading version file "/mnt/steam_ext4/SteamLibrary/steamapps/compatdata/32440/upscaler_files"
+ProtonFixes[60281] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[62600] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[62600] INFO: Running checks
+ProtonFixes[62600] INFO: All checks successful
+ProtonFixes[62600] INFO: Using early stage global defaults for "LEGO® Star Wars™: The Complete Saga" (32440)
+ProtonFixes[62600] INFO: No early stage global protonfix found for "LEGO® Star Wars™: The Complete Saga" (32440)
+ProtonFixes[62600] INFO: Setting up FSR4 version default.
+ProtonFixes[62600] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[62600] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[62600] INFO: Running checks
+ProtonFixes[62600] INFO: All checks successful
+ProtonFixes[62600] INFO: Using main stage global defaults for "LEGO® Star Wars™: The Complete Saga" (32440)
+ProtonFixes[62600] INFO: No main stage global protonfix found for "LEGO® Star Wars™: The Complete Saga" (32440)
+ProtonFixes[11504] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[11504] INFO: Setting up FSR4 version default.
+ProtonFixes[11504] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[11504] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[12410] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[12410] INFO: Setting up FSR4 version default.
+ProtonFixes[12410] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[12410] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[13342] INFO: Setting up FSR4 version default.
+ProtonFixes[13342] WARN: Error while reading version file "/mnt/steam_ext4/SteamLibrary/steamapps/compatdata/438640/upscaler_files"
+ProtonFixes[13342] WARN: [Errno 2] No such file or directory: '/mnt/steam_ext4/SteamLibrary/steamapps/compatdata/438640/upscaler_files'
+ProtonFixes[13342] INFO: Failed to validate "FSR4" files.
+ProtonFixes[13342] INFO: Downloading upscaler file "amdxcffx64.dll"
+ProtonFixes[13342] WARN: Error while reading version file "/mnt/steam_ext4/SteamLibrary/steamapps/compatdata/438640/upscaler_files"
+ProtonFixes[13342] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[14407] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[14407] INFO: Running checks
+ProtonFixes[14407] INFO: All checks successful
+ProtonFixes[14407] INFO: Using early stage global defaults for "LEGO® STAR WARS™: The Force Awakens" (438640)
+ProtonFixes[14407] INFO: No early stage global protonfix found for "LEGO® STAR WARS™: The Force Awakens" (438640)
+ProtonFixes[14407] INFO: Setting up FSR4 version default.
+ProtonFixes[14407] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[14407] INFO: Running protonfixes on "cachyos-11.0-20260703-slr", build at 2026-07-22 00:46:48+00:00.
+ProtonFixes[14407] INFO: Running checks
+ProtonFixes[14407] INFO: All checks successful
+ProtonFixes[14407] INFO: Using main stage global defaults for "LEGO® STAR WARS™: The Force Awakens" (438640)
+ProtonFixes[14407] INFO: No main stage global protonfix found for "LEGO® STAR WARS™: The Force Awakens" (438640)
+ProtonFixes[4981] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[4981] INFO: Setting up FSR4 version default.
+ProtonFixes[4981] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[4981] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[5206] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[5206] INFO: Setting up FSR4 version default.
+ProtonFixes[5206] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[5206] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[19927] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[19927] INFO: Setting up FSR4 version default.
+ProtonFixes[19927] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[19927] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[20159] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[20159] INFO: Setting up FSR4 version default.
+ProtonFixes[20159] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[20159] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[4935] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[4935] INFO: Setting up FSR4 version default.
+ProtonFixes[4935] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[4935] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[5291] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[5291] INFO: Setting up FSR4 version default.
+ProtonFixes[5291] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[5291] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[15472] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[15472] INFO: Setting up FSR4 version default.
+ProtonFixes[15472] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[15472] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[15849] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[15849] INFO: Setting up FSR4 version default.
+ProtonFixes[15849] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[15849] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[4809] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[4809] INFO: Setting up FSR4 version default.
+ProtonFixes[4809] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[4809] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[5164] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[5164] INFO: Setting up FSR4 version default.
+ProtonFixes[5164] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[5164] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[4471] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[4471] INFO: Setting up FSR4 version default.
+ProtonFixes[4471] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[4471] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[4700] WARN: Skipping fix execution. We are probably running a unit test.
+ProtonFixes[4700] INFO: Setting up FSR4 version default.
+ProtonFixes[4700] INFO: Automatic FSR4 upgrade enabled.
+ProtonFixes[4700] WARN: Skipping fix execution. We are probably running a unit test.
