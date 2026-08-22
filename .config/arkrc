@@ -1,0 +1,12 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/DATA/main/zip/
+
+[Extraction]
+openDestinationFolderAfterExtraction=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled

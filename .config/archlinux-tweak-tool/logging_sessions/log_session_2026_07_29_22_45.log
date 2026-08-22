@@ -1,0 +1,147 @@
+[INFO] Session log: /home/pd0rk1n/.config/archlinux-tweak-tool/logging_sessions/log_session_2026_07_29_22_45.log
+[INFO] ATT application activated
+[INFO] To unlock all features, add Chaotic-AUR and Nemesis repo to your pacman.conf.
+For terminal operations and full transparency, alacritty must be installed
+[INFO] Desktop: kde
+[INFO] Full desktop detected — using HeaderBar titlebar
+[SUB] Ensuring application directories
+[SUB] Ensuring /root/.config directories
+[SUB] Setting up icon/cursor theme defaults
+[SUB] Setting up fastfetch config
+[INFO] Building Accessibility page
+[SUB] Backing up GTK + Qt theme config
+[INFO]   ATT runs as root; copying user GTK 3/4 + Qt (Kvantum/qt5ct) config so apps respect your desktop theme
+[SUB] Backing up system config files
+[SUB] Backing up user config files
+[SUB] Checking file permissions
+[INFO] To unlock all features, add Chaotic-AUR and Nemesis repo to your pacman.conf.
+[INFO] For terminal operations and full transparency, alacritty must be installed.
+[INFO] 56 arc themes available to install
+[INFO] fastfetch is installed
+[SUB] Fastfetch enabled
+[OK] Fastfetch enabled in shell config
+  From: /usr/share/archlinux-tweak-tool/data/fastfetch/config.jsonc
+  To:   /home/pd0rk1n/.config/fastfetch/config.jsonc
+[OK] Fastfetch ATT defaults applied
+[INFO] Building Icons Horst page (Surfn + Neo Candy Horst folder variants)
+[INFO] Neo Candy icons available to install: 96
+[SUB] Installing selected Neo Candy icon themes...
+[SUB] Installing 1 Neo Candy icon packages...
+[INFO]   neo-candy-icons-git
+[OK] Neo Candy icons installation complete
+[INFO] Kernels page: CPU Scheduler (scx-manager) pointer shown
+[INFO] Kernels available to install: 35 total (6 standard, 29 chaotic-AUR)
+[SUB] GRUB Boot Entry Selector
+[INFO] GRUB entries found: 8, current default: None
+[WARN] GRUB_DEFAULT is not set to 'saved' — will fix automatically on Set as Default.
+[SUB] Installing kernel: linux
+[OK] Installation completed for linux
+[SUB] Updating GRUB...
+[OK] GRUB_DEFAULT=saved written to /etc/default/grub
+[INFO] Setting GRUB default boot entry to: CachyOS Linux, with Linux linux-cachyos (index 1>0)
+[SUB] Updating GRUB...
+[OK] GRUB default boot entry set to: CachyOS Linux, with Linux linux-cachyos — Reboot to verify
+[SUB] Starting system update...
+[OK] System update completed
+[SUB] Launching pacman cache cleanup...
+[INFO] Removing leftover temp download folders from /var/cache/pacman/pkg/
+[OK] Pacman cache cleaned
+[SUB] Setting fastest Arch Linux mirrors with rate-mirrors...
+[OK] Fastest Arch Linux servers saved - rate-mirrors
+[SUB] Fixing pacman keys...
+[OK] Pacman keys fixed
+[SUB] Apply Parallel Downloads
+[SUB] Setting parallel downloads...
+  Value : 30
+  File  : /etc/pacman.conf
+[OK] ParallelDownloads = 30 saved to /etc/pacman.conf
+[SUB] Applying global cursor theme...
+Cursor theme 'elementary' applied to:
+  ✓ /usr/share/icons/default/index.theme
+  ✓ /home/pd0rk1n/.icons/default/index.theme
+  ✓ /home/pd0rk1n/.config/gtk-3.0/settings.ini
+  ✓ /home/pd0rk1n/.config/gtk-4.0/settings.ini
+  ✓ /home/pd0rk1n/.gtkrc-2.0
+  ✓ /home/pd0rk1n/.config/xfce4/xfconf/xfce-perchannel-xml/xsettings.xml
+  ✓ gsettings:pd0rk1n:org.gnome.desktop.interface
+  ✓ /home/pd0rk1n/.config/kcminputrc
+[OK] Cursor 'elementary' saved globally
+[SUB] Install Samba
+[SUB] Install Samba
+[SUB] Apply Samba Configuration
+  From: /usr/share/archlinux-tweak-tool/data/samba/example/smb.conf
+  To:   /etc/samba/smb.conf
+[INFO] Samba share path set to /home/pd0rk1n/Shared
+[OK] Samba configuration applied
+[SUB] Apply Samba Configuration
+[SUB] Apply Samba Configuration
+  From: /etc/samba/smb.conf
+  To:   /etc/samba/smb.conf-bak
+  From: /usr/share/archlinux-tweak-tool/data/samba/example/smb.conf
+  To:   /etc/samba/smb.conf
+[INFO] Samba share path set to /home/pd0rk1n/Shared
+[OK] Samba configuration applied
+[OK] Samba configuration applied successfully
+[SUB] Create Samba User
+[SUB] Create Samba User
+[SUB] Toggle Samba Services
+[OK] Samba services (smb + nmb) enabled
+[SUB] Installing Thunderbird...
+[OK] Thunderbird installed
+[SUB] Install yay from Chaotic-AUR
+[OK] yay-git installed
+[SUB] Install paru from Chaotic-AUR
+[OK] paru-git installed
+[INFO] Plymouth: 12 installed theme(s)
+[INFO] Plymouth: 85 AUR theme(s) available
+[SUB] Install uBlock Origin
+[SUB] Install hblock
+[SUB] Tune /etc/makepkg.conf — use all 4 cores (-j4)
+  File:          /etc/makepkg.conf
+  New MAKEFLAGS: -j4
+  Before:        MAKEFLAGS="-j$(nproc)"
+  After:         MAKEFLAGS="-j4"
+[OK] MAKEFLAGS set to -j4 in /etc/makepkg.conf
+[INFO] Why this matters: MAKEFLAGS controls how many parallel jobs makepkg uses
+[INFO] when building AUR packages or compiling from source. Arch ships
+[INFO] '#MAKEFLAGS="-j2"' commented out, so the stock default is effectively
+[INFO] single-threaded. On your 4-core CPU this leaves a lot of speed
+[INFO] on the table — many AUR builds drop from minutes to seconds.
+[TIP] To revert: click 'Restore backup' (uses /etc/makepkg.conf-bak).
+[SUB] Install tuned
+[OK] tuned installed and enabled
+[SUB] Install tuned-ppd
+[OK] tuned-ppd installed and enabled
+[SUB] Apply Tuned Profile
+[OK] Tuned profile set to throughput-performance
+[SUB] Enable ananicy Service
+[OK] ananicy-cpp service enabled
+[SUB] Install gamemode
+[INFO] Enabling service: gamemoded.service (user service)
+[OK] gamemode installed
+[SUB] Install preload
+[INFO] Enabling service: preload.service
+[OK] preload installed and enabled
+[SUB] Enable fstrim Timer
+[OK] fstrim.timer enabled for weekly TRIM
+[SUB] Reading user systemd services
+[INFO]   39 active user services (1 custom)
+[INFO] Shells tab loaded — active shell: fish
+[SUB] Installing bash and bash-completion...
+[OK] Installation completed
+[SUB] Apply ATT Bash Configuration
+  From: /usr/share/archlinux-tweak-tool/data/.bashrc
+  To:   /home/pd0rk1n/.bashrc
+[OK] ATT bash configuration applied — log out and back in to apply
+[SUB] Installing pamac-aur...
+[OK] pamac-aur installed successfully
+[SUB] Launching pamac-manager...
+[SUB] Launching flatpak...
+[SUB] Apply ATT nanorc
+[SUB] Backing up /etc/nanorc
+[INFO] nanorc-bak already exists, skipping
+[OK] ATT nanorc applied to /etc/nanorc
+[INFO] Refreshing themer dropdowns after desktop change...
+[OK] Themer dropdowns refreshed
+[TIP] Store your wallpapers in ~/Templates/wallpapers — variety picks them up automatically
+[INFO] ATT closing

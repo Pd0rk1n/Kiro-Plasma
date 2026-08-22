@@ -1,0 +1,48 @@
+2026/08/21-20:10:42.523 fadd2 Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/MANIFEST-000001
+2026/08/21-20:10:42.533 fadd2 Recovering log #14002
+2026/08/21-20:10:42.533 fadd2 Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/014002.log 
+2026/08/21-20:10:53.714 fade2 Level-0 table #14006: started
+2026/08/21-20:10:53.728 fade2 Level-0 table #14006: 4867673 bytes OK
+2026/08/21-20:10:53.729 fade2 Delete type=0 #14002
+2026/08/21-20:10:53.729 fade2 Compacting 4@0 + 3@1 files
+2026/08/21-20:10:53.737 fade2 Generated table #14007@0: 6 keys, 2307525 bytes
+2026/08/21-20:10:53.744 fade2 Generated table #14008@0: 5 keys, 2484840 bytes
+2026/08/21-20:10:53.751 fade2 Generated table #14009@0: 5 keys, 2255057 bytes
+2026/08/21-20:10:53.760 fade2 Generated table #14010@0: 8 keys, 3246488 bytes
+2026/08/21-20:10:53.769 fade2 Generated table #14011@0: 5 keys, 2610112 bytes
+2026/08/21-20:10:53.773 fade2 Generated table #14012@0: 6 keys, 1295864 bytes
+2026/08/21-20:10:53.779 fade2 Generated table #14013@0: 8 keys, 1706924 bytes
+2026/08/21-20:10:53.779 fade2 Compacted 4@0 + 3@1 files => 15906810 bytes
+2026/08/21-20:10:53.780 fade2 compacted to: files[ 0 7 10 0 0 0 0 ]
+2026/08/21-20:10:53.780 fade2 Delete type=2 #13987
+2026/08/21-20:10:53.780 fade2 Delete type=2 #14006
+2026/08/21-20:10:53.780 fade2 Delete type=2 #13988
+2026/08/21-20:10:53.780 fade2 Delete type=2 #13989
+2026/08/21-20:10:53.780 fade2 Delete type=2 #13998
+2026/08/21-20:10:53.780 fade2 Delete type=2 #14003
+2026/08/21-20:10:53.780 fade2 Delete type=2 #14001
+2026/08/21-20:10:53.781 fade2 Compacting 1@1 + 2@2 files
+2026/08/21-20:10:53.791 fade2 Generated table #14014@1: 4 keys, 3607659 bytes
+2026/08/21-20:10:53.798 fade2 Generated table #14015@1: 6 keys, 2502694 bytes
+2026/08/21-20:10:53.798 fade2 Compacted 1@1 + 2@2 files => 6110353 bytes
+2026/08/21-20:10:53.799 fade2 compacted to: files[ 0 6 10 0 0 0 0 ]
+2026/08/21-20:10:53.800 fade2 Delete type=2 #14009
+2026/08/21-20:10:53.800 fade2 Delete type=2 #13914
+2026/08/21-20:10:53.800 fade2 Delete type=2 #13996
+2026/08/21-20:10:53.800 fade2 Compacting 1@1 + 2@2 files
+2026/08/21-20:10:53.807 fade2 Generated table #14016@1: 6 keys, 2505139 bytes
+2026/08/21-20:10:53.815 fade2 Generated table #14017@1: 8 keys, 2515250 bytes
+2026/08/21-20:10:53.815 fade2 Compacted 1@1 + 2@2 files => 5020389 bytes
+2026/08/21-20:10:53.816 fade2 compacted to: files[ 0 5 10 0 0 0 0 ]
+2026/08/21-20:10:53.817 fade2 Delete type=2 #14010
+2026/08/21-20:10:53.817 fade2 Delete type=2 #13915
+2026/08/21-20:10:53.817 fade2 Delete type=2 #14015
+2026/08/21-20:10:56.224 fadd4 Level-0 table #14019: started
+2026/08/21-20:10:56.247 fadd4 Level-0 table #14019: 4906826 bytes OK
+2026/08/21-20:10:56.255 fadd4 Delete type=0 #14005
+2026/08/21-20:11:53.891 fadd4 Level-0 table #14021: started
+2026/08/21-20:11:53.917 fadd4 Level-0 table #14021: 9491653 bytes OK
+2026/08/21-20:11:53.919 fadd4 Delete type=0 #14018
+2026/08/21-20:11:56.903 fadd4 Level-0 table #14023: started
+2026/08/21-20:11:56.970 fadd4 Level-0 table #14023: 10299052 bytes OK
+2026/08/21-20:11:56.971 fadd4 Delete type=0 #14020
