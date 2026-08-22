@@ -1,0 +1,1 @@
+nvidia-settings --assign CurrentMetaMode="DPY-3: nvidia-auto-select +0+0 {ForceFullCompositionPipeline=On}"
