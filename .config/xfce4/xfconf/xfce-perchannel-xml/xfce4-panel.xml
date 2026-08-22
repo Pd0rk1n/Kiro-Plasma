@@ -101,6 +101,7 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="Arch-Update"/>
         <value type="string" value="steam"/>
         <value type="string" value="blueman"/>
         <value type="string" value="vlc"/>
@@ -136,12 +137,12 @@
         <value type="string" value="xfce-settings-manager.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="thunar.desktop"/>
+        <value type="string" value="brave-browser.desktop"/>
+        <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="io.missioncenter.MissionCenter.desktop"/>
         <value type="string" value="archlinux-tweak-tool.desktop"/>
         <value type="string" value="xfce4-terminal.desktop"/>
-        <value type="string" value="brave-browser.desktop"/>
         <value type="string" value="mintstick.desktop"/>
       </property>
       <property name="search-actions" type="int" value="7">
