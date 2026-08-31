@@ -1,43 +1,312 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Exit immediately if a command exits with a non-zero status
 set -e
 
-echo "=== 1. Updating system package databases ==="
-sudo pacman -Syu --noconfirm
+# Ensure the script is run as root
+if [ "$EUID" -ne 0 ]; then
+  echo "Please run as root (sudo ./script.sh)"
+  exit 1
+fi
 
-# -----------------------------------------------------------------------------
-# 2. OFFICIAL REPO PACKAGES (pacman)
-# Add whatever CLI tools, media apps, browsers, or utilities you need here.
-# -----------------------------------------------------------------------------
-OFFICIAL_PACKAGES=(
-    # Development & System Tools
-    git
-    btop
-    fastfetch
-    wget
-    curl
-    unzip
-    cmatrix
-    rofi
-    make
-    
+echo "Updating package databases and system..."
+pacman -Syu --noconfirm
 
-    # Browsers & Media
-    vlc
-    brave-bin
-    transmission-gtk
-
-    # Utilities
-    thunar
-    pavucontrol
-    polkit-gnome
-    variety
-    mission-center
-
+# List of explicitly installed packages
+PACKAGES=(
+  accountsservice
+  alacritty
+  alsa-firmware
+  alsa-plugins
+  alsa-utils
+  archlinux-tweak-tool-gtk4
+  ark
+  awesome-terminal-fonts
+  base
+  base-devel
+  bash-completion
+  bind
+  bluedevil
+  blueman
+  bluez
+  bluez-hid2hci
+  bluez-libs
+  bluez-obex
+  bluez-utils
+  bpftune-git
+  brave-bin
+  breeze-gtk
+  btop
+  btrfs-progs
+  cachy-update
+  cachyos-emerald-kde-theme-git
+  cachyos-fish-config
+  cachyos-gaming-applications
+  cachyos-gaming-meta
+  cachyos-grub-theme
+  cachyos-hello
+  cachyos-hooks
+  cachyos-iridescent-kde
+  cachyos-kde-settings
+  cachyos-kernel-manager
+  cachyos-keyring
+  cachyos-micro-settings
+  cachyos-mirrorlist
+  cachyos-nord-kde-theme-git
+  cachyos-packageinstaller
+  cachyos-plymouth-bootanimation
+  cachyos-plymouth-theme
+  cachyos-rate-mirrors
+  cachyos-settings
+  cachyos-v3-mirrorlist
+  cachyos-v4-mirrorlist
+  cachyos-wallpapers
+  cachyos-zsh-config
+  cantarell-fonts
+  chaotic-keyring
+  chaotic-mirrorlist
+  char-white
+  chwd
+  cpupower
+  cryptsetup
+  device-mapper
+  diffutils
+  dmidecode
+  dmraid
+  dnsmasq
+  dolphin
+  dosfstools
+  duf
+  e2fsprogs
+  efibootmgr
+  efitools
+  egl-wayland
+  ethtool
+  exfatprogs
+  exo
+  f2fs-tools
+  fastfetch
+  ffmpegthumbnailer
+  ffmpegthumbs
+  file-roller
+  filelight
+  firefox
+  firefox-ublock-origin
+  fsarchiver
+  fwupd
+  galculator
+  gamemode
+  garcon
+  git
+  glances
+  grub
+  grub-hook
+  gst-libav
+  gst-plugin-pipewire
+  gst-plugin-va
+  gst-plugins-bad
+  gst-plugins-ugly
+  gvfs
+  gvfs-afc
+  gvfs-gphoto2
+  gvfs-mtp
+  gvfs-nfs
+  gvfs-smb
+  gwenview
+  haruna
+  hdparm
+  hwdetect
+  hwinfo
+  inetutils
+  intel-media-driver
+  intel-media-sdk
+  intel-ucode
+  irqbalance
+  iwd
+  jfsutils
+  kate
+  kcalc
+  kde-gtk-config
+  kdeconnect
+  kdegraphics-thumbnailers
+  kdeplasma-addons
+  kdialog
+  kinfocenter
+  kio-admin
+  kiro-arc-dracul
+  kiro-keyring
+  kiro-mirrorlist
+  konsole
+  kscreen
+  kwallet-pam
+  kwalletmanager
+  less
+  lib32-nvidia-utils
+  lib32-opencl-nvidia
+  lib32-vulkan-icd-loader
+  lib32-vulkan-intel
+  libdvdcss
+  libgsf
+  libopenraw
+  libva-nvidia-driver
+  linux-cachyos
+  linux-cachyos-headers
+  linux-cachyos-lts
+  linux-cachyos-lts-headers
+  linux-cachyos-lts-nvidia-open
+  linux-cachyos-nvidia-open
+  linux-firmware
+  logrotate
+  lsb-release
+  lsscsi
+  lvm2
+  man-db
+  man-pages
+  mdadm
+  meld
+  mesa-utils
+  micro
+  mission-center
+  mkinitcpio
+  modemmanager
+  mtools
+  nano
+  nano-syntax-highlighting
+  neo-candy-dracul-icons-git
+  netctl
+  network-manager-applet
+  networkmanager
+  networkmanager-openvpn
+  nfs-utils
+  nilfs-utils
+  noto-fonts
+  noto-fonts-cjk
+  noto-fonts-emoji
+  nss-mdns
+  ntfs-3g
+  nvidia-settings
+  nvidia-utils
+  opencl-nvidia
+  openssh
+  os-prober
+  pacman-contrib
+  parole
+  partitionmanager
+  paru-git
+  pavucontrol
+  perl
+  phonon-qt6-vlc
+  pipewire-alsa
+  pipewire-pulse
+  pkgfile
+  plasma-browser-integration
+  plasma-desktop
+  plasma-firewall
+  plasma-login-manager
+  plasma-nm
+  plasma-pa
+  plasma-systemmonitor
+  plasma-thunderbolt
+  plocate
+  plymouth
+  plymouth-kcm
+  poppler-glib
+  powerdevil
+  preload
+  profile-sync-daemon
+  pv
+  python
+  python-defusedxml
+  python-packaging
+  realtime-privileges
+  rebuild-detector
+  reflector
+  ripgrep
+  ristretto
+  rofi
+  rsync
+  s-nail
+  samba
+  sg3_utils
+  shelly
+  smartmontools
+  sof-firmware
+  spectacle
+  starship
+  sublime-text-4
+  sudo
+  sysfsutils
+  tesseract-data-eng
+  texinfo
+  thunar
+  thunar-archive-plugin
+  thunar-media-tags-plugin
+  thunar-volman
+  transmission-qt
+  ttf-bitstream-vera
+  ttf-dejavu
+  ttf-liberation
+  ttf-meslo-nerd
+  ttf-opensans
+  tumbler
+  tuned
+  tuned-ppd
+  ufw
+  ufw-extras
+  unrar
+  unzip
+  upower
+  usb_modeswitch
+  usbutils
+  variety
+  vim
+  vlc-plugins-all
+  vulkan-icd-loader
+  vulkan-intel
+  wget
+  which
+  wireplumber
+  wpa_supplicant
+  xdg-user-dirs
+  xdg-user-dirs-gtk
+  xdg-utils
+  xed
+  xfce4-appfinder
+  xfce4-battery-plugin
+  xfce4-mount-plugin
+  xfce4-netload-plugin
+  xfce4-notifyd
+  xfce4-panel
+  xfce4-power-manager
+  xfce4-pulseaudio-plugin
+  xfce4-screensaver
+  xfce4-screenshooter
+  xfce4-session
+  xfce4-settings
+  xfce4-taskmanager
+  xfce4-terminal
+  xfce4-wavelan-plugin
+  xfce4-weather-plugin
+  xfce4-whiskermenu-plugin
+  xfce4-xkb-plugin
+  xfconf
+  xfdesktop
+  xfsprogs
+  xfwm4
+  xl2tpd
+  xsettingsd
+  yay-git
 )
 
-echo "=== 2. Installing official packages ==="
-sudo pacman -S --needed --noconfirm "${OFFICIAL_PACKAGES[@]}"
+echo "Installing packages with the --needed flag..."
+pacman -S --needed --noconfirm "${PACKAGES[@]}"
 
-echo "=== Installation completed successfully! ==="
+echo "Enabling essential system services..."
+systemctl enable NetworkManager
+systemctl enable bluetooth
+systemctl enable ufw
+systemctl enable sshd
+systemctl enable preload
+systemctl enable tuned
+
+echo "Post-install script completed successfully!"
