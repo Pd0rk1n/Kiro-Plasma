@@ -19,8 +19,8 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][23][Applets][24][Configuration]
-popupHeight=509
-popupWidth=647
+popupHeight=531
+popupWidth=687
 
 [Containments][23][Applets][24][Configuration][ConfigDialog]
 DialogHeight=540
@@ -89,7 +89,7 @@ plugin=org.kde.plasma.notifications
 
 [Containments][23][Applets][28][Applets][37]
 immutability=1
-plugin=org.kde.plasma.volume
+plugin=org.kde.plasma.keyboardindicator
 
 [Containments][23][Applets][28][Applets][37][Configuration][General]
 migrated=true
@@ -120,13 +120,16 @@ placeDisplayName=Oshawa, ON
 placeInfo=ON|s0000707
 provider=envcan
 
-[Containments][23][Applets][28][Applets][40]
-immutability=1
-plugin=org.kde.plasma.battery
-
 [Containments][23][Applets][28][Applets][42]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
+
+[Containments][23][Applets][28][Applets][43]
+immutability=1
+plugin=org.kde.plasma.volume
+
+[Containments][23][Applets][28][Applets][43][Configuration][General]
+migrated=true
 
 [Containments][23][Applets][28][Applets][44]
 immutability=1
@@ -136,13 +139,21 @@ plugin=org.kde.plasma.bluetooth
 immutability=1
 plugin=org.kde.plasma.brightness
 
+[Containments][23][Applets][28][Applets][69]
+immutability=1
+plugin=org.kde.plasma.battery
+
+[Containments][23][Applets][28][Applets][70]
+immutability=1
+plugin=org.kde.plasma.mediacontroller
+
 [Containments][23][Applets][28][ConfigDialog]
 DialogHeight=630
 DialogWidth=810
 
 [Containments][23][Applets][28][General]
 disabledStatusNotifiers=blueman
-extraItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardindicator,org.kde.plasma.weather,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.brightness
+extraItems=org.kde.kscreen,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardindicator,org.kde.plasma.weather,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.brightness,org.kde.plasma.battery
 hiddenItems=org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.brightness
 knownItems=org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.brightness,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.kdeconnect,org.kde.plasma.keyboardindicator,org.kde.plasma.weather,org.kde.plasma.bluetooth
 shownItems=variety
@@ -168,6 +179,7 @@ PreviewImage=/usr/share/wallpapers/cachyos-wallpapers/north.png
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][43]
+ItemGeometries-0x0=
 ItemGeometries-1680x1050=
 ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
@@ -180,10 +192,11 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][43][Wallpaper][org.kde.image][General]
-Image=file:///home/pd0rk1n/.config/variety/wallpaper/wallpaper-auto-rotated-4519e82090bf835671e7c241f5969a24.jpg
+Image=file:///home/pd0rk1n/.config/variety/wallpaper/wallpaper-auto-rotated-82a5241c0d5de1eeafb44e2c4014232a.jpg
 SlidePaths=/home/pd0rk1n/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][46]
+ItemGeometries-0x0=
 ItemGeometries-1680x1050=
 ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
@@ -196,7 +209,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][46][Wallpaper][org.kde.image][General]
-Image=file:///home/pd0rk1n/.config/variety/wallpaper/wallpaper-auto-rotated-4519e82090bf835671e7c241f5969a24.jpg
+Image=file:///home/pd0rk1n/.config/variety/wallpaper/wallpaper-auto-rotated-82a5241c0d5de1eeafb44e2c4014232a.jpg
 
 [Containments][47]
 activityId=
@@ -212,8 +225,8 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][47][Applets][48][Configuration]
-popupHeight=509
-popupWidth=647
+popupHeight=531
+popupWidth=687
 
 [Containments][47][Applets][48][Configuration][ConfigDialog]
 DialogHeight=540
@@ -328,6 +341,10 @@ plugin=org.kde.plasma.bluetooth
 [Containments][47][Applets][51][Applets][66]
 immutability=1
 plugin=org.kde.plasma.brightness
+
+[Containments][47][Applets][51][Applets][69]
+immutability=1
+plugin=org.kde.plasma.mediacontroller
 
 [Containments][47][Applets][51][ConfigDialog]
 DialogHeight=630

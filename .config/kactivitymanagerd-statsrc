@@ -1,5 +1,14 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-24-]
+ordering=applications:transmission-qt.desktop,applications:brave-browser.desktop,applications:thunar.desktop,applications:xfce4-terminal.desktop,applications:systemsettings.desktop,applications:archlinux-tweak-tool.desktop,applications:cachyos-hello.desktop,applications:steam.desktop
+
 [Favorites-org.kde.plasma.kickoff.favorites.instance-24-e952755e-3395-41b4-984c-87d9d330a7c9]
 ordering=applications:brave-browser.desktop,applications:transmission-qt.desktop,applications:thunar.desktop,applications:xfce4-terminal.desktop,applications:steam.desktop,applications:systemsettings.desktop,applications:cachyos-hello.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-24-global]
-ordering=applications:brave-browser.desktop,applications:transmission-qt.desktop,applications:thunar.desktop,applications:xfce4-terminal.desktop,applications:steam.desktop,applications:systemsettings.desktop,applications:cachyos-hello.desktop
+ordering=applications:transmission-qt.desktop,applications:brave-browser.desktop,applications:thunar.desktop,applications:xfce4-terminal.desktop,applications:systemsettings.desktop,applications:archlinux-tweak-tool.desktop,applications:cachyos-hello.desktop,applications:steam.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-48-]
+ordering=applications:archlinux-tweak-tool.desktop,applications:brave-browser.desktop,applications:systemsettings.desktop,applications:xfce4-terminal.desktop,applications:cachyos-hello.desktop,applications:thunar.desktop,applications:transmission-qt.desktop,applications:steam.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-48-global]
+ordering=applications:archlinux-tweak-tool.desktop,applications:brave-browser.desktop,applications:systemsettings.desktop,applications:xfce4-terminal.desktop,applications:cachyos-hello.desktop,applications:thunar.desktop,applications:transmission-qt.desktop,applications:steam.desktop

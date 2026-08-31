@@ -1,0 +1,2 @@
+[    0.1428] Couldn't find translation for system language en-CA, using en-US instead
+[    0.1435] Loaded translation file for language en-US

@@ -91,15 +91,21 @@ ForegroundPositive=80,250,122
 ForegroundVisited=68,71,90
 
 [General]
+ColorScheme=DraculaPurple
 ColorSchemeHash=e44c8d483c47a28c7d0e32e6b41dd227803affe5
 TerminalApplication=xfce4-terminal
 TerminalService=xfce4-terminal.desktop
+XftAntialias=true
+XftHintStyle=hintfull
+XftSubPixel=none
+font=Noto Sans,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+toolBarFont=Noto Sans,11,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 
 [Icons]
 Theme=neo-candy-icons
 
 [KDE]
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=Dracula
 contrast=5
 frameContrast=0.2
 
@@ -123,6 +129,7 @@ View Style=DetailTree
 [WM]
 activeBackground=47,52,63
 activeBlend=47,52,63
+activeFont=Noto Sans,13,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 activeForeground=211,218,227
 inactiveBackground=47,52,63
 inactiveBlend=47,52,63

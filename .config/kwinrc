@@ -9,8 +9,18 @@ Rows=1
 [Plugins]
 cubeEnabled=true
 fallapartEnabled=true
+translucencyEnabled=true
+wobblywindowsEnabled=true
 
 [Tiling][33449aec-dd2f-44d1-8b67-5f7834e9b670][3fbcc727-cc9b-407d-b2ab-7cc674de2b6a]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][33449aec-dd2f-44d1-8b67-5f7834e9b670][6dde0220-1bcb-4307-ac59-191f20b84dd1]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][33449aec-dd2f-44d1-8b67-5f7834e9b670][79bb0976-a560-434f-a815-b09ae2fab04a]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -22,6 +32,14 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][b3c1aafb-1507-4b76-a7f2-1191e6ea8a4b][6dde0220-1bcb-4307-ac59-191f20b84dd1]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][b3c1aafb-1507-4b76-a7f2-1191e6ea8a4b][79bb0976-a560-434f-a815-b09ae2fab04a]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][b3c1aafb-1507-4b76-a7f2-1191e6ea8a4b][d38e9747-1c34-4d57-bd56-8008d75d2336]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -30,11 +48,27 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][cd4163d8-391e-4e4a-a60d-16884ce1d187][6dde0220-1bcb-4307-ac59-191f20b84dd1]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][cd4163d8-391e-4e4a-a60d-16884ce1d187][79bb0976-a560-434f-a815-b09ae2fab04a]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][cd4163d8-391e-4e4a-a60d-16884ce1d187][d38e9747-1c34-4d57-bd56-8008d75d2336]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][eda64ed5-ab95-4803-bfd3-db099aba15c5][3fbcc727-cc9b-407d-b2ab-7cc674de2b6a]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][eda64ed5-ab95-4803-bfd3-db099aba15c5][6dde0220-1bcb-4307-ac59-191f20b84dd1]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][eda64ed5-ab95-4803-bfd3-db099aba15c5][79bb0976-a560-434f-a815-b09ae2fab04a]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -53,4 +87,3 @@ Scale=1
 ButtonsOnLeft=XAI
 ButtonsOnRight=
 library=org.kde.kwin.aurorae.v2
-theme=__aurorae__svg__Dracula

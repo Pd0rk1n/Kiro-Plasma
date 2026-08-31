@@ -1,3 +1,126 @@
-2026/08/21-20:24:05.176 3a0e Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/MANIFEST-000001
-2026/08/21-20:24:05.185 3a0e Recovering log #14022
-2026/08/21-20:24:05.186 3a0e Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/014022.log 
+2026/08/29-07:11:30.526 d94 Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/MANIFEST-000001
+2026/08/29-07:11:30.544 d94 Recovering log #14173
+2026/08/29-07:11:30.545 d94 Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/014173.log 
+2026/08/29-07:12:08.735 d95 Level-0 table #14177: started
+2026/08/29-07:12:08.750 d95 Level-0 table #14177: 4889767 bytes OK
+2026/08/29-07:12:08.752 d95 Delete type=0 #14173
+2026/08/29-07:13:05.228 d95 Level-0 table #14179: started
+2026/08/29-07:13:05.253 d95 Level-0 table #14179: 10179419 bytes OK
+2026/08/29-07:13:05.255 d95 Delete type=0 #14176
+2026/08/29-07:13:05.256 d95 Compacting 4@0 + 4@1 files
+2026/08/29-07:13:05.270 d95 Generated table #14180@0: 4 keys, 2798169 bytes
+2026/08/29-07:13:05.282 d95 Generated table #14181@0: 4 keys, 2917338 bytes
+2026/08/29-07:13:05.296 d95 Generated table #14182@0: 3 keys, 2462444 bytes
+2026/08/29-07:13:05.323 d95 Generated table #14183@0: 5 keys, 9128621 bytes
+2026/08/29-07:13:05.328 d95 Generated table #14184@0: 9 keys, 1507776 bytes
+2026/08/29-07:13:05.329 d95 Compacted 4@0 + 4@1 files => 18814348 bytes
+2026/08/29-07:13:05.330 d95 compacted to: files[ 0 5 10 0 0 0 0 ]
+2026/08/29-07:13:05.330 d95 Delete type=2 #14164
+2026/08/29-07:13:05.330 d95 Delete type=2 #14165
+2026/08/29-07:13:05.330 d95 Delete type=2 #14166
+2026/08/29-07:13:05.330 d95 Delete type=2 #14167
+2026/08/29-07:13:05.330 d95 Delete type=2 #14172
+2026/08/29-07:13:05.330 d95 Delete type=2 #14174
+2026/08/29-07:13:05.330 d95 Delete type=2 #14177
+2026/08/29-07:13:05.331 d95 Delete type=2 #14179
+2026/08/29-07:13:05.333 d95 Compacting 1@1 + 4@2 files
+2026/08/29-07:13:05.340 d95 Generated table #14185@1: 7 keys, 2325349 bytes
+2026/08/29-07:13:05.350 d95 Generated table #14186@1: 6 keys, 2503534 bytes
+2026/08/29-07:13:05.362 d95 Generated table #14187@1: 4 keys, 3642457 bytes
+2026/08/29-07:13:05.373 d95 Generated table #14188@1: 6 keys, 2516862 bytes
+2026/08/29-07:13:05.373 d95 Compacted 1@1 + 4@2 files => 10988202 bytes
+2026/08/29-07:13:05.374 d95 compacted to: files[ 0 4 10 0 0 0 0 ]
+2026/08/29-07:13:05.375 d95 Delete type=2 #14129
+2026/08/29-07:13:05.375 d95 Delete type=2 #14130
+2026/08/29-07:13:05.375 d95 Delete type=2 #14131
+2026/08/29-07:13:05.375 d95 Delete type=2 #14132
+2026/08/29-07:13:05.375 d95 Delete type=2 #14180
+2026/08/29-07:13:05.376 d95 Compacting 1@1 + 2@2 files
+2026/08/29-07:13:05.386 d95 Generated table #14189@1: 6 keys, 2517778 bytes
+2026/08/29-07:13:05.396 d95 Generated table #14190@1: 8 keys, 2523965 bytes
+2026/08/29-07:13:05.396 d95 Compacted 1@1 + 2@2 files => 5041743 bytes
+2026/08/29-07:13:05.398 d95 compacted to: files[ 0 3 10 0 0 0 0 ]
+2026/08/29-07:13:05.398 d95 Delete type=2 #14134
+2026/08/29-07:13:05.398 d95 Delete type=2 #14181
+2026/08/29-07:13:05.398 d95 Delete type=2 #14188
+2026/08/29-07:13:05.398 d95 Compacting 1@1 + 1@2 files
+2026/08/29-07:13:05.410 d95 Generated table #14191@1: 5 keys, 2624149 bytes
+2026/08/29-07:13:05.410 d95 Compacted 1@1 + 1@2 files => 2624149 bytes
+2026/08/29-07:13:05.412 d95 compacted to: files[ 0 2 10 0 0 0 0 ]
+2026/08/29-07:13:05.412 d95 Delete type=2 #14138
+2026/08/29-07:13:05.412 d95 Delete type=2 #14182
+2026/08/29-07:13:05.413 d95 Compacting 1@1 + 2@2 files
+2026/08/29-07:13:05.419 d95 Generated table #14192@1: 7 keys, 2266235 bytes
+2026/08/29-07:13:05.441 d95 Generated table #14193@1: 6 keys, 7582682 bytes
+2026/08/29-07:13:05.441 d95 Compacted 1@1 + 2@2 files => 9848917 bytes
+2026/08/29-07:13:05.443 d95 compacted to: files[ 0 1 10 0 0 0 0 ]
+2026/08/29-07:13:05.443 d95 Delete type=2 #14139
+2026/08/29-07:13:05.443 d95 Delete type=2 #14140
+2026/08/29-07:13:05.443 d95 Delete type=2 #14183
+2026/08/29-07:13:08.238 d94 Level-0 table #14195: started
+2026/08/29-07:13:08.278 d94 Level-0 table #14195: 10195540 bytes OK
+2026/08/29-07:13:08.280 d94 Delete type=0 #14178
+2026/08/29-09:13:08.838 d95 Level-0 table #14197: started
+2026/08/29-09:13:08.860 d95 Level-0 table #14197: 8479232 bytes OK
+2026/08/29-09:13:08.861 d95 Delete type=0 #14194
+2026/08/29-09:13:11.847 d97 Level-0 table #14199: started
+2026/08/29-09:13:11.878 d97 Level-0 table #14199: 10166030 bytes OK
+2026/08/29-09:13:11.880 d97 Delete type=0 #14196
+2026/08/29-11:13:10.816 d95 Level-0 table #14201: started
+2026/08/29-11:13:10.843 d95 Level-0 table #14201: 10944991 bytes OK
+2026/08/29-11:13:10.845 d95 Delete type=0 #14198
+2026/08/29-11:13:10.845 d95 Compacting 4@0 + 1@1 files
+2026/08/29-11:13:10.859 d95 Generated table #14202@0: 4 keys, 2370490 bytes
+2026/08/29-11:13:10.885 d95 Generated table #14203@0: 2 keys, 7969066 bytes
+2026/08/29-11:13:10.892 d95 Generated table #14204@0: 10 keys, 1981009 bytes
+2026/08/29-11:13:10.892 d95 Compacted 4@0 + 1@1 files => 12320565 bytes
+2026/08/29-11:13:10.894 d95 compacted to: files[ 0 3 10 0 0 0 0 ]
+2026/08/29-11:13:10.894 d95 Delete type=2 #14184
+2026/08/29-11:13:10.894 d95 Delete type=2 #14195
+2026/08/29-11:13:10.894 d95 Delete type=2 #14197
+2026/08/29-11:13:10.894 d95 Delete type=2 #14199
+2026/08/29-11:13:10.894 d95 Delete type=2 #14201
+2026/08/29-11:13:10.894 d95 Compacting 1@1 + 2@2 files
+2026/08/29-11:13:10.902 d95 Generated table #14205@1: 11 keys, 2408336 bytes
+2026/08/29-11:13:10.903 d95 Generated table #14206@1: 10 keys, 1058 bytes
+2026/08/29-11:13:10.903 d95 Compacted 1@1 + 2@2 files => 2409394 bytes
+2026/08/29-11:13:10.904 d95 compacted to: files[ 0 2 10 0 0 0 0 ]
+2026/08/29-11:13:10.904 d95 Delete type=2 #14169
+2026/08/29-11:13:10.904 d95 Delete type=2 #14170
+2026/08/29-11:13:10.904 d95 Delete type=2 #14204
+2026/08/29-11:13:13.825 d95 Level-0 table #14208: started
+2026/08/29-11:13:13.857 d95 Level-0 table #14208: 10181339 bytes OK
+2026/08/29-11:13:13.859 d95 Delete type=0 #14200
+2026/08/29-11:13:13.860 d95 Compacting 1@1 + 6@2 files
+2026/08/29-11:13:13.867 d95 Generated table #14209@1: 7 keys, 2325343 bytes
+2026/08/29-11:13:13.875 d95 Generated table #14210@1: 6 keys, 2503534 bytes
+2026/08/29-11:13:13.887 d95 Generated table #14211@1: 4 keys, 3642457 bytes
+2026/08/29-11:13:13.898 d95 Generated table #14212@1: 6 keys, 2517778 bytes
+2026/08/29-11:13:13.907 d95 Generated table #14213@1: 8 keys, 2523965 bytes
+2026/08/29-11:13:13.919 d95 Generated table #14214@1: 5 keys, 2625389 bytes
+2026/08/29-11:13:13.919 d95 Compacted 1@1 + 6@2 files => 16138466 bytes
+2026/08/29-11:13:13.920 d95 compacted to: files[ 0 2 10 0 0 0 0 ]
+2026/08/29-11:13:13.920 d95 Delete type=2 #14185
+2026/08/29-11:13:13.920 d95 Delete type=2 #14186
+2026/08/29-11:13:13.921 d95 Delete type=2 #14187
+2026/08/29-11:13:13.921 d95 Delete type=2 #14189
+2026/08/29-11:13:13.921 d95 Delete type=2 #14190
+2026/08/29-11:13:13.921 d95 Delete type=2 #14191
+2026/08/29-11:13:13.921 d95 Delete type=2 #14202
+2026/08/29-11:13:13.921 d95 Compacting 1@1 + 2@2 files
+2026/08/29-11:13:13.929 d95 Generated table #14215@1: 7 keys, 2266235 bytes
+2026/08/29-11:13:13.949 d95 Generated table #14216@1: 6 keys, 7581670 bytes
+2026/08/29-11:13:13.949 d95 Compacted 1@1 + 2@2 files => 9847905 bytes
+2026/08/29-11:13:13.951 d95 compacted to: files[ 0 1 10 0 0 0 0 ]
+2026/08/29-11:13:13.951 d95 Delete type=2 #14192
+2026/08/29-11:13:13.951 d95 Delete type=2 #14193
+2026/08/29-11:13:13.951 d95 Delete type=2 #14203
+2026/08/29-18:12:14.903 d95 Level-0 table #14218: started
+2026/08/29-18:12:14.913 d95 Level-0 table #14218: 4894457 bytes OK
+2026/08/29-18:12:14.915 d95 Delete type=0 #14207
+2026/08/29-18:13:11.042 d95 Level-0 table #14220: started
+2026/08/29-18:13:11.064 d95 Level-0 table #14220: 8845044 bytes OK
+2026/08/29-18:13:11.066 d95 Delete type=0 #14217
+2026/08/29-18:13:14.051 d94 Level-0 table #14222: started
+2026/08/29-18:13:14.082 d94 Level-0 table #14222: 10187125 bytes OK
+2026/08/29-18:13:14.084 d94 Delete type=0 #14219

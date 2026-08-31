@@ -10,6 +10,7 @@ Show Url Nav Bar=true
 
 [MainWindow]
 1920x1080 screen: Window-Maximized=true
+2 screens: Window-Maximized=true
 
 [filetree]
 editShade=62,101,110
