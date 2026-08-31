@@ -1,0 +1,11 @@
+[pull]
+	rebase = false
+[user]
+	name = Pd0rk1n
+	email = patrick.dorkin@hotmail.com
+[push]
+	default = simple
+[http]
+	lowSpeedLimit = 1000
+	lowSpeedTime = 60
+	postBuffer = 524288000
