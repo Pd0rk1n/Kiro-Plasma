@@ -1,0 +1,13 @@
+2026/10/08-21:36:21.867 3216 Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_10.0.0.19_8096.indexeddb.leveldb/MANIFEST-000001
+2026/10/08-21:36:21.867 3216 Recovering log #15
+2026/10/08-21:36:21.894 3216 Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_10.0.0.19_8096.indexeddb.leveldb/000015.log 
+2026/10/08-21:36:21.894 3216 Delete type=2 #11
+2026/10/08-21:36:21.894 3216 Delete type=2 #14
+2026/10/08-21:36:21.894 3216 Delete type=2 #16
+2026/10/08-21:36:21.894 3216 Delete type=2 #8
+2026/10/08-21:36:23.439 3219 Compacting 1@1 + 1@2 files
+2026/10/08-21:36:23.446 3219 Generated table #20@1: 22 keys, 105104 bytes
+2026/10/08-21:36:23.446 3219 Compacted 1@1 + 1@2 files => 105104 bytes
+2026/10/08-21:36:23.446 3219 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/08-21:36:23.447 3219 Delete type=2 #5
+2026/10/08-21:36:23.447 3219 Delete type=2 #18

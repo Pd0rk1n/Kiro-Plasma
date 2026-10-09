@@ -1,2 +1,14 @@
+[Libinput][1133][50498][Logitech Wireless Receiver Mouse]
+PointerAcceleration=0.200
+PointerAccelerationProfile=1
+
+[Libinput][14648][4497][2.4G Wireless Mouse]
+PointerAccelerationProfile=1
+ScrollFactor=0.3
+ScrollMethod=4
+
+[Libinput][3141][30359][SONiX USB DEVICE Keyboard]
+ScrollFactor=0.5
+
 [Mouse]
 cursorSize=36

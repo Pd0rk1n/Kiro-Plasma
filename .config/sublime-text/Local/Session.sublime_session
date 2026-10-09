@@ -1,8 +1,9 @@
 {
 	"file_history":
 	[
-		"/home/pd0rk1n/DATA/kiro-plasma/up.sh",
+		"/home/pd0rk1n/.pulse-cookie",
 		"/home/pd0rk1n/DATA/kiro-plasma/setup-git-v5.sh",
+		"/home/pd0rk1n/DATA/kiro-plasma/up.sh",
 		"/home/pd0rk1n/DATA/main/.config/Thunar/accels.scm",
 		"/home/pd0rk1n/DATA/main/.config/Thunar/uca.xml",
 		"/home/pd0rk1n/.config/haruna/haruna.conf",
@@ -35,15 +36,15 @@
 	"folder_history":
 	[
 	],
-	"last_version": 4200,
+	"last_version": 4215,
 	"last_window_id": 1,
 	"log_indexing": false,
-	"next_update_check": 1788226359,
+	"next_update_check": 1791598243,
 	"settings":
 	{
 		"new_window_full_screen": false,
 		"new_window_height": 993.0,
-		"new_window_maximized": false,
+		"new_window_maximized": true,
 		"new_window_position":
 		[
 			0.0,
@@ -88,6 +89,8 @@
 			},
 			"file_history":
 			[
+				"/home/pd0rk1n/fstab",
+				"/home/pd0rk1n/.pulse-cookie",
 				"/home/pd0rk1n/DATA/kiro-plasma/setup-git-v5.sh",
 				"/home/pd0rk1n/DATA/kiro-plasma/up.sh",
 				"/home/pd0rk1n/DATA/main/.config/Thunar/accels.scm",
@@ -224,10 +227,12 @@
 			"buffers":
 			[
 				{
-					"file": "/home/pd0rk1n/DATA/kiro-plasma/setup-git-v5.sh",
+					"file": "/home/pd0rk1n/fstab",
+					"file_size": 2138,
+					"file_write_time": 134358930888101975,
 					"settings":
 					{
-						"buffer_size": 792,
+						"buffer_size": 2138,
 						"line_ending": "Unix"
 					}
 				}
@@ -264,8 +269,9 @@
 			},
 			"file_history":
 			[
-				"/home/pd0rk1n/DATA/kiro-plasma/up.sh",
+				"/home/pd0rk1n/.pulse-cookie",
 				"/home/pd0rk1n/DATA/kiro-plasma/setup-git-v5.sh",
+				"/home/pd0rk1n/DATA/kiro-plasma/up.sh",
 				"/home/pd0rk1n/DATA/main/.config/Thunar/accels.scm",
 				"/home/pd0rk1n/DATA/main/.config/Thunar/uca.xml",
 				"/home/pd0rk1n/.config/haruna/haruna.conf",
@@ -334,12 +340,12 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/pd0rk1n/DATA/kiro-plasma/setup-git-v5.sh",
+							"file": "/home/pd0rk1n/fstab",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 792,
+								"buffer_size": 2138,
 								"regions":
 								{
 								},
@@ -352,7 +358,7 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -404,7 +410,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,0,817,993,3600,1080,0",
+			"position": "0,1,0,0,0,0,0,1920,1056,3600,1080,0",
 			"project": "",
 			"replace":
 			{

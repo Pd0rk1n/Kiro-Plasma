@@ -1,0 +1,7 @@
+2026/10/08-18:54:38.029 1c4ae0 Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_10.0.0.19_8096.indexeddb.leveldb/MANIFEST-000001
+2026/10/08-18:54:38.029 1c4ae0 Recovering log #15
+2026/10/08-18:54:38.049 1c4ae0 Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/http_10.0.0.19_8096.indexeddb.leveldb/000015.log 
+2026/10/08-18:54:39.758 1c4ae0 Compacting 3@0 + 1@1 files
+2026/10/08-18:54:39.767 1c4ae0 Generated table #18@0: 434 keys, 109901 bytes
+2026/10/08-18:54:39.768 1c4ae0 Compacted 3@0 + 1@1 files => 109901 bytes
+2026/10/08-18:54:39.768 1c4ae0 compacted to: files[ 0 1 1 0 0 0 0 ]

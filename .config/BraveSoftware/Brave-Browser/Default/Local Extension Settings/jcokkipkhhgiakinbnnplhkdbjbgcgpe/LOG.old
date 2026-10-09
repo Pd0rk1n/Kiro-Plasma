@@ -1,36 +1,46 @@
-2026/08/28-21:43:18.659 3f26 Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/MANIFEST-000001
-2026/08/28-21:43:18.671 3f26 Recovering log #14159
-2026/08/28-21:43:18.671 3f26 Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/014159.log 
-2026/08/28-22:43:57.080 3f27 Level-0 table #14163: started
-2026/08/28-22:43:57.090 3f27 Level-0 table #14163: 4887860 bytes OK
-2026/08/28-22:43:57.092 3f27 Delete type=0 #14159
-2026/08/28-22:43:57.092 3f27 Compacting 4@0 + 4@1 files
-2026/08/28-22:43:57.106 3f27 Generated table #14164@0: 4 keys, 2793530 bytes
-2026/08/28-22:43:57.122 3f27 Generated table #14165@0: 4 keys, 2916447 bytes
-2026/08/28-22:43:57.140 3f27 Generated table #14166@0: 3 keys, 2461489 bytes
-2026/08/28-22:43:57.149 3f27 Generated table #14167@0: 5 keys, 2056017 bytes
-2026/08/28-22:43:57.157 3f27 Generated table #14168@0: 13 keys, 1972200 bytes
-2026/08/28-22:43:57.157 3f27 Compacted 4@0 + 4@1 files => 12199683 bytes
-2026/08/28-22:43:57.159 3f27 compacted to: files[ 0 5 10 0 0 0 0 ]
-2026/08/28-22:43:57.159 3f27 Delete type=2 #14150
-2026/08/28-22:43:57.159 3f27 Delete type=2 #14151
-2026/08/28-22:43:57.159 3f27 Delete type=2 #14152
-2026/08/28-22:43:57.159 3f27 Delete type=2 #14153
-2026/08/28-22:43:57.159 3f27 Delete type=2 #14155
-2026/08/28-22:43:57.159 3f27 Delete type=2 #14158
-2026/08/28-22:43:57.159 3f27 Delete type=2 #14160
-2026/08/28-22:43:57.159 3f27 Delete type=2 #14163
-2026/08/28-22:43:57.163 3f27 Compacting 1@1 + 2@2 files
-2026/08/28-22:43:57.174 3f27 Generated table #14169@1: 10 keys, 2399394 bytes
-2026/08/28-22:43:57.175 3f27 Generated table #14170@1: 10 keys, 1087 bytes
-2026/08/28-22:43:57.175 3f27 Compacted 1@1 + 2@2 files => 2400481 bytes
-2026/08/28-22:43:57.177 3f27 compacted to: files[ 0 4 10 0 0 0 0 ]
-2026/08/28-22:43:57.177 3f27 Delete type=2 #14127
-2026/08/28-22:43:57.177 3f27 Delete type=2 #14128
-2026/08/28-22:43:57.177 3f27 Delete type=2 #14168
-2026/08/28-22:44:54.229 3f27 Level-0 table #14172: started
-2026/08/28-22:44:54.261 3f27 Level-0 table #14172: 10282252 bytes OK
-2026/08/28-22:44:54.263 3f27 Delete type=0 #14162
-2026/08/28-22:44:57.242 3f29 Level-0 table #14174: started
-2026/08/28-22:44:57.311 3f29 Level-0 table #14174: 10125377 bytes OK
-2026/08/28-22:44:57.314 3f29 Delete type=0 #14171
+2026/10/08-18:54:32.918 1c4ae3 Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/MANIFEST-000001
+2026/10/08-18:54:32.923 1c4ae3 Recovering log #14257
+2026/10/08-18:54:32.924 1c4ae3 Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/jcokkipkhhgiakinbnnplhkdbjbgcgpe/014257.log 
+2026/10/08-18:55:11.336 1c4ae1 Level-0 table #14261: started
+2026/10/08-18:55:11.348 1c4ae1 Level-0 table #14261: 5237212 bytes OK
+2026/10/08-18:55:11.349 1c4ae1 Delete type=0 #14257
+2026/10/08-18:55:12.922 1c4ae1 Level-0 table #14263: started
+2026/10/08-18:55:12.935 1c4ae1 Level-0 table #14263: 4594908 bytes OK
+2026/10/08-18:55:12.936 1c4ae1 Delete type=0 #14260
+2026/10/08-18:55:12.937 1c4ae1 Compacting 4@0 + 4@1 files
+2026/10/08-18:55:12.949 1c4ae1 Generated table #14264@0: 4 keys, 2822444 bytes
+2026/10/08-18:55:12.956 1c4ae1 Generated table #14265@0: 7 keys, 2538759 bytes
+2026/10/08-18:55:12.968 1c4ae1 Generated table #14266@0: 4 keys, 2715742 bytes
+2026/10/08-18:55:12.978 1c4ae1 Generated table #14267@0: 6 keys, 2729392 bytes
+2026/10/08-18:55:12.986 1c4ae1 Generated table #14268@0: 7 keys, 1536593 bytes
+2026/10/08-18:55:12.997 1c4ae1 Generated table #14269@0: 7 keys, 2874631 bytes
+2026/10/08-18:55:12.998 1c4ae1 Generated table #14270@0: 2 keys, 418 bytes
+2026/10/08-18:55:12.998 1c4ae1 Compacted 4@0 + 4@1 files => 15217979 bytes
+2026/10/08-18:55:12.998 1c4ae1 compacted to: files[ 0 7 10 0 0 0 0 ]
+2026/10/08-18:55:12.999 1c4ae1 Delete type=2 #14256
+2026/10/08-18:55:12.999 1c4ae1 Delete type=2 #14261
+2026/10/08-18:55:12.999 1c4ae1 Delete type=2 #14245
+2026/10/08-18:55:12.999 1c4ae1 Delete type=2 #14246
+2026/10/08-18:55:12.999 1c4ae1 Delete type=2 #14243
+2026/10/08-18:55:12.999 1c4ae1 Delete type=2 #14244
+2026/10/08-18:55:12.999 1c4ae1 Delete type=2 #14263
+2026/10/08-18:55:12.999 1c4ae1 Delete type=2 #14258
+2026/10/08-18:55:13.000 1c4ae1 Compacting 1@1 + 1@2 files
+2026/10/08-18:55:13.012 1c4ae1 Generated table #14271@1: 8 keys, 2541082 bytes
+2026/10/08-18:55:13.012 1c4ae1 Compacted 1@1 + 1@2 files => 2541082 bytes
+2026/10/08-18:55:13.013 1c4ae1 compacted to: files[ 0 6 10 0 0 0 0 ]
+2026/10/08-18:55:13.013 1c4ae1 Delete type=2 #14265
+2026/10/08-18:55:13.013 1c4ae1 Delete type=2 #14213
+2026/10/08-18:55:13.013 1c4ae1 Compacting 1@1 + 1@2 files
+2026/10/08-18:55:13.028 1c4ae1 Generated table #14272@1: 4 keys, 2715742 bytes
+2026/10/08-18:55:13.034 1c4ae1 Generated table #14273@1: 1 keys, 1450509 bytes
+2026/10/08-18:55:13.034 1c4ae1 Compacted 1@1 + 1@2 files => 4166251 bytes
+2026/10/08-18:55:13.034 1c4ae1 compacted to: files[ 0 5 11 0 0 0 0 ]
+2026/10/08-18:55:13.035 1c4ae1 Delete type=2 #14266
+2026/10/08-18:55:13.035 1c4ae1 Delete type=2 #14214
+2026/10/08-18:56:13.336 1c4ae1 Level-0 table #14275: started
+2026/10/08-18:56:13.362 1c4ae1 Level-0 table #14275: 9738618 bytes OK
+2026/10/08-18:56:13.364 1c4ae1 Delete type=0 #14262
+2026/10/08-18:56:16.351 1c4ae3 Level-0 table #14277: started
+2026/10/08-18:56:16.392 1c4ae3 Level-0 table #14277: 13672006 bytes OK
+2026/10/08-18:56:16.395 1c4ae3 Delete type=0 #14274

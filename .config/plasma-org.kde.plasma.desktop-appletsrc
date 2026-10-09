@@ -19,8 +19,8 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][23][Applets][24][Configuration]
-popupHeight=531
-popupWidth=687
+popupHeight=546
+popupWidth=721
 
 [Containments][23][Applets][24][Configuration][ConfigDialog]
 DialogHeight=540
@@ -55,8 +55,8 @@ immutability=1
 lastScreen=0
 location=4
 plugin=org.kde.plasma.systemtray
-popupHeight=432
-popupWidth=432
+popupHeight=439
+popupWidth=440
 wallpaperplugin=org.kde.image
 
 [Containments][23][Applets][28][Applets][30]
@@ -192,7 +192,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][43][Wallpaper][org.kde.image][General]
-Image=file:///home/pd0rk1n/.config/variety/wallpaper/wallpaper-auto-rotated-82a5241c0d5de1eeafb44e2c4014232a.jpg
+Image=file:///home/pd0rk1n/.config/variety/wallpaper/wallpaper-auto-rotated-8cef2e8be372fa764abcc2105939295f.jpg
 SlidePaths=/home/pd0rk1n/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][46]
@@ -209,7 +209,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][46][Wallpaper][org.kde.image][General]
-Image=file:///home/pd0rk1n/.config/variety/wallpaper/wallpaper-auto-rotated-82a5241c0d5de1eeafb44e2c4014232a.jpg
+Image=file:///home/pd0rk1n/.config/variety/wallpaper/wallpaper-auto-rotated-8cef2e8be372fa764abcc2105939295f.jpg
 
 [Containments][47]
 activityId=
@@ -261,8 +261,8 @@ immutability=1
 lastScreen=-1
 location=0
 plugin=org.kde.plasma.systemtray
-popupHeight=432
-popupWidth=432
+popupHeight=439
+popupWidth=440
 wallpaperplugin=org.kde.image
 
 [Containments][47][Applets][51][Applets][53]

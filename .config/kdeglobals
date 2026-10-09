@@ -108,6 +108,7 @@ Theme=neo-candy-icons
 LookAndFeelPackage=Dracula
 contrast=5
 frameContrast=0.2
+widgetStyle=Fusion
 
 [KFileDialog Settings]
 Allow Expansion=false
@@ -115,7 +116,7 @@ Automatically select filename extension=true
 Breadcrumb Navigation=true
 Decoration position=2
 Show Full Path=false
-Show Inline Previews=true
+Show Inline Previews=false
 Show Preview=false
 Show Speedbar=true
 Show hidden files=false

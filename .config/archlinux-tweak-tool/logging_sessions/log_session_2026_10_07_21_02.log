@@ -1,0 +1,105 @@
+[INFO] Session log: /home/pd0rk1n/.config/archlinux-tweak-tool/logging_sessions/log_session_2026_10_07_21_02.log
+[INFO] ATT application activated
+[INFO] To unlock all features, add Chaotic-AUR and Nemesis repo to your pacman.conf.
+For terminal operations and full transparency, alacritty must be installed
+[INFO] Desktop: kde
+[INFO] Full desktop detected — using HeaderBar titlebar
+[SUB] Ensuring application directories
+[SUB] Ensuring /root/.config directories
+[SUB] Setting up icon/cursor theme defaults
+[SUB] Setting up fastfetch config
+[INFO] Building Accessibility page
+[SUB] Backing up GTK + Qt theme config
+[INFO]   ATT runs as root; copying user GTK 3/4 + Qt (Kvantum/qt5ct) config so apps respect your desktop theme
+[SUB] Backing up system config files
+[SUB] Backing up user config files
+[SUB] Checking file permissions
+[INFO] To unlock all features, add Chaotic-AUR and Nemesis repo to your pacman.conf.
+[INFO] For terminal operations and full transparency, alacritty must be installed.
+[INFO] Showing tweak tools overview at startup
+[INFO] 56 arc themes available to install
+[INFO] Building Backup page
+[INFO] Kernels page: CPU Scheduler (scx-manager) pointer shown
+[INFO] Kernels available to install: 33 total (6 standard, 27 chaotic-AUR)
+[SUB] GRUB Boot Entry Selector
+[INFO] GRUB entries found: 14, current default: None
+[WARN] GRUB_DEFAULT is not set to 'saved' — will fix automatically on Set as Default.
+[OK] GRUB_DEFAULT=saved written to /etc/default/grub
+[INFO] Setting GRUB default boot entry to: CachyOS Linux, with Linux linux-cachyos-bore (index 1>2)
+[SUB] Updating GRUB...
+[OK] GRUB default boot entry set to: CachyOS Linux, with Linux linux-cachyos-bore — Reboot to verify
+[SUB] Fixing pacman keys...
+[OK] Pacman keys fixed
+[SUB] Install Samba
+[SUB] Install Samba
+[SUB] Apply Samba Configuration
+  From: /usr/share/archlinux-tweak-tool/data/samba/example/smb.conf
+  To:   /etc/samba/smb.conf
+[INFO] Samba share path set to /home/pd0rk1n/Shared
+[OK] Samba configuration applied
+[SUB] Apply Samba Configuration
+[SUB] Apply Samba Configuration
+  From: /etc/samba/smb.conf
+  To:   /etc/samba/smb.conf-bak
+  From: /usr/share/archlinux-tweak-tool/data/samba/example/smb.conf
+  To:   /etc/samba/smb.conf
+[INFO] Samba share path set to /home/pd0rk1n/Shared
+[OK] Samba configuration applied
+[OK] Samba configuration applied successfully
+[SUB] Create Samba User
+[SUB] Create Samba User
+[SUB] Toggle Samba Services
+[OK] Samba services (smb + nmb) enabled
+[SUB] Restart SMB Service
+[SUB] SAMBA SERVICE RESTART - STATUS CHECKLIST
+[OK] Samba services restarted successfully
+[SUB] Install yay from Chaotic-AUR
+[OK] yay-git installed
+[SUB] Install paru from Chaotic-AUR
+[OK] paru-git installed
+[INFO] Plymouth: 12 installed theme(s)
+[INFO] Plymouth: 84 AUR theme(s) available
+[SUB] Tune /etc/makepkg.conf — use all 8 cores (-j8)
+  File:          /etc/makepkg.conf
+  New MAKEFLAGS: -j8
+  Before:        MAKEFLAGS="-j$(nproc)"
+  After:         MAKEFLAGS="-j8"
+[OK] MAKEFLAGS set to -j8 in /etc/makepkg.conf
+[INFO] Why this matters: MAKEFLAGS controls how many parallel jobs makepkg uses
+[INFO] when building AUR packages or compiling from source. Arch ships
+[INFO] '#MAKEFLAGS="-j2"' commented out, so the stock default is effectively
+[INFO] single-threaded. On your 8-core CPU this leaves a lot of speed
+[INFO] on the table — many AUR builds drop from minutes to seconds.
+[TIP] To revert: click 'Restore backup' (uses /etc/makepkg.conf-bak).
+[SUB] Install gamemode
+[INFO] Enabling service: gamemoded.service (user service)
+[OK] gamemode installed
+[SUB] Enable gamemode Service
+[OK] gamemode service enabled
+[SUB] Install preload
+[INFO] Enabling service: preload.service
+[OK] preload installed and enabled
+[SUB] Enable preload Service
+[OK] preload service enabled
+[SUB] Reading user systemd services
+[INFO]   39 active user services (1 custom)
+[INFO] Shells tab loaded — active shell: fish
+[SUB] Installing bash and bash-completion...
+[OK] Installation completed
+[SUB] Apply ATT Bash Configuration
+  From: /usr/share/archlinux-tweak-tool/data/.bashrc
+  To:   /home/pd0rk1n/.bashrc
+[OK] ATT bash configuration applied — log out and back in to apply
+[SUB] Installing flatpak...
+[OK] flatpak installed successfully
+[SUB] Launching flatpak...
+[SUB] Apply ATT nanorc
+[SUB] Backing up /etc/nanorc
+[INFO] nanorc-bak already exists, skipping
+[OK] ATT nanorc applied to /etc/nanorc
+[INFO] Refreshing themer dropdowns after desktop change...
+[OK] Themer dropdowns refreshed
+[TIP] Store your wallpapers in ~/Templates/wallpapers — variety picks them up automatically
+[SUB] Open variety settings
+[OK] Variety settings launched
+[INFO] ATT closing
